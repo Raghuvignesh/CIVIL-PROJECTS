@@ -55,8 +55,3 @@ Feel free to reach out:
 ---
 
 # 🚀 Thank you for visiting!
-
----
-
-Would you like me to also give you a **cooler version** with badges and GitHub style (for better professional touch)? 🚀✨  
-(Example: badges for Revit, AutoCAD, STAAD, MIT license, etc.)
